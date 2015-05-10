@@ -1,0 +1,9 @@
+c:\users\mitchell\documents\visual studio 2012\Projects\Sovereign Stars\Sovereign Stars\bin\Debug\Sovereign Stars.exe.config
+c:\users\mitchell\documents\visual studio 2012\Projects\Sovereign Stars\Sovereign Stars\bin\Debug\Sovereign Stars.exe
+c:\users\mitchell\documents\visual studio 2012\Projects\Sovereign Stars\Sovereign Stars\bin\Debug\Sovereign Stars.pdb
+c:\users\mitchell\documents\visual studio 2012\Projects\Sovereign Stars\Sovereign Stars\obj\Debug\Sovereign Stars.csprojResolveAssemblyReference.cache
+c:\users\mitchell\documents\visual studio 2012\Projects\Sovereign Stars\Sovereign Stars\obj\Debug\Sovereign_Stars.Form1.resources
+c:\users\mitchell\documents\visual studio 2012\Projects\Sovereign Stars\Sovereign Stars\obj\Debug\Sovereign_Stars.Properties.Resources.resources
+c:\users\mitchell\documents\visual studio 2012\Projects\Sovereign Stars\Sovereign Stars\obj\Debug\Sovereign Stars.csproj.GenerateResource.Cache
+c:\users\mitchell\documents\visual studio 2012\Projects\Sovereign Stars\Sovereign Stars\obj\Debug\Sovereign Stars.exe
+c:\users\mitchell\documents\visual studio 2012\Projects\Sovereign Stars\Sovereign Stars\obj\Debug\Sovereign Stars.pdb
